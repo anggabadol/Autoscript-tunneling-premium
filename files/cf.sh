@@ -20,8 +20,8 @@ echo ""
 read -rp "Input Domain Name. Example ( Angga-Store ): " -e sub
 DOMAIN=akunpremium212.my.id
 SUB_DOMAIN=${sub}.akunpremium212.my.id
-CF_ID=vscobangst111@gmail.com
-CF_KEY=4a912a2d56a1b3837d48751da5334b74a4fb8
+CF_ID=anggaadi49876@gmail.com
+CF_KEY=38bd794f53a7feb7efc764d798d3d2d3c522f
 set -euo pipefail
 IP=$(curl -sS ifconfig.me);
 echo "Updating DNS for ${SUB_DOMAIN}..."
